@@ -2,5 +2,8 @@
   "notebook-navigator",
   "templater-obsidian",
   "quickadd",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-outliner",
+  "dataview",
+  "obsidian-style-settings"
 ]

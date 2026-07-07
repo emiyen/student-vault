@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "credits": "number",
+    "number": "number",
+    "date": "date",
+    "start-date": "date",
+    "end-date": "date"
+  }
+}
