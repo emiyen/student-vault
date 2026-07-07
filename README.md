@@ -31,6 +31,9 @@ A window will pop up prompting you to either enable the vault's plugins or brows
 You can check what plugins are used by clicking [here](https://github.com/emiyen/student-vault#what-plugins-are-used-in-this-vault) before downloading the vault. Once you've looked them over and gauged their safety, you can click **Trust author and enable plugins**. You can also browse in Restricted Mode and view the community plugins within Obsidian's settings, but plugins are required to use this vault to its full potential.
 
 From here on out, you can read through the README file from within Obsidian itself. It should be the very last item in the file navigator to the left.
+
+If you're COMPLETELY new to Obsidian, I recommend exploring the sandbox vault that Obsidian provides out of the box. Press `Command + P` and search for `Open sandbox vault`. It'll guide you through Obsidian based on your experience level.
+
 ## Give me a tour of the vault!
 
 - **00 SYSTEM**
@@ -67,7 +70,7 @@ Try adding a course now! It'll automatically go into the COURSES folder.
 
 At the top of the course page, you'll see something called properties.
 
-<img src="">
+<img src="https://github.com/emiyen/student-vault/blob/main/00%20SYSTEM/attachments/CleanShot%202026-07-07%20at%2017.57.27@2x_e678c3a8c857c7e8fbc0ff75062a6905f92a55c2d6cd3510c47c8528de068eb1.jpeg?raw=true">
 
 ## What are properties?
 
@@ -76,6 +79,10 @@ Properties can be assigned to notes so that they can be organized and listed out
 There are also examples of bases on the [[Home]] page. These are bases that filter through all of your notes based on properties called **tags**. For example, everything tagged with *course* will show up in the Courses base. Everything tagged with *semester* will show up in the Semesters base. 
 
 For the immediate use of this vault, knowledge about bases is not required, but if you want to customize and add more, there are videos on YouTube that cover the details extensively.
+
+You can put all kinds of things within properties, including links. You'll want to make a semester page for the current semester and then insert a link to it in the **semester** property. For example:
+
+<img src="">
 
 ## What plugins are used in this vault?
 

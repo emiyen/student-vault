@@ -1,5 +1,5 @@
 ---
-semester:
+semester: "[[Summer 2026]]"
 course-title:
 credits:
 grade:
