@@ -1,7 +1,7 @@
 ---
 course:
 tags:
-  - source/textbook
+  - source
 ---
 # [[<% tp.file.title %>]]
 

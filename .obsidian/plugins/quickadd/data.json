@@ -1,10 +1,164 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "099e59d5-fdac-48c4-960b-2728692caa53",
+      "name": "New Blank Note",
+      "type": "Template",
+      "command": true,
+      "templatePath": "00 SYSTEM/templates/Blank Note.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsBehavior": {
+        "kind": "prompt"
+      }
+    },
+    {
+      "id": "a89b96a8-335c-4bdc-a352-ae900352ad48",
+      "name": "Add Course",
+      "type": "Template",
+      "command": true,
+      "templatePath": "00 SYSTEM/templates/Course Page.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "COURSES"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsBehavior": {
+        "kind": "prompt"
+      }
+    },
+    {
+      "id": "90843194-270d-42a2-8005-64712c688319",
+      "name": "Add Lecture Note",
+      "type": "Template",
+      "command": true,
+      "templatePath": "00 SYSTEM/templates/Lecture Note.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "LECTURE NOTES"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsBehavior": {
+        "kind": "prompt"
+      }
+    },
+    {
+      "id": "a2a2a410-34c0-41b8-a2a1-47eb9ec07042",
+      "name": "Add Semester",
+      "type": "Template",
+      "command": true,
+      "templatePath": "00 SYSTEM/templates/Semester.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "SEMESTERS"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsBehavior": {
+        "kind": "prompt"
+      }
+    },
+    {
+      "id": "ab32c143-ae52-4eac-ba6a-12063cd8a599",
+      "name": "Add Source",
+      "type": "Template",
+      "command": true,
+      "templatePath": "00 SYSTEM/templates/Source.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "SOURCE NOTES"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsBehavior": {
+        "kind": "prompt"
+      }
+    }
+  ],
   "inputPrompt": "single-line",
   "persistInputPromptDrafts": true,
   "useSelectionAsCaptureValue": true,
   "devMode": false,
-  "templateFolderPath": "",
+  "templateFolderPath": "00 SYSTEM/templates",
   "announceUpdates": "major",
   "version": "2.12.3",
   "globalVariables": {},

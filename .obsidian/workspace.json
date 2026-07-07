@@ -119,8 +119,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
-                "collapseAll": false,
+                "file": "README.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -181,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of README"
             }
           },
           {
@@ -202,12 +202,12 @@
               "title": "Footnotes"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,23 +221,27 @@
       "obsidian-git:Open Git source control": false,
       "notebook-navigator:Notebook Navigator": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "7a79cac9bc005e4d",
+  "active": "afcf010ef3aa65a0",
   "lastOpenFiles": [
+    "00 SYSTEM/attachments/CleanShot 2026-07-07 at 17.40.34@2x_86a6263914a9d0a7fad5326688b9ae7bda5653c2e3345b6500c1f5f61eaf80a3.jpeg",
     "01 ATLAS/Home.md",
-    "00 SYSTEM/attachments/CleanShot 2026-07-07 at 16.23.19@2x_52ecbdd570666f8a79907d194c9b3c180753070253eb2e9d1e2ba44ad305e307.jpeg",
     "README.md",
+    "00 SYSTEM/templates/Course Page.md",
+    "00 SYSTEM/templates/Lecture Note.md",
+    "00 SYSTEM/templates/Semester.md",
+    "00 SYSTEM/templates/Source.md",
+    "00 SYSTEM/templates/Blank Note.md",
+    "LECTURE NOTES",
+    "00 SYSTEM/attachments/CleanShot 2026-07-07 at 16.23.19@2x_52ecbdd570666f8a79907d194c9b3c180753070253eb2e9d1e2ba44ad305e307.jpeg",
     "00 SYSTEM/attachments/CleanShot 2026-07-07 at 16.14.47@2x_6558ac070973650e745c34399cb0b26bb6006ddeb18da01a37b692da49c1dc34.jpeg",
     "00 SYSTEM/attachments/CleanShot 2026-07-07 at 16.14.47@2x.png",
     "00 SYSTEM/attachments/CleanShot 2026-07-07 at 16.05.17@2x_0880f7d110ffc92ca6a35778dc1573e1c49e216272ad080530ec6df331a38479.jpeg",
-    "00 SYSTEM/templates/Textbook.md",
-    "00 SYSTEM/templates/Semester.md",
-    "00 SYSTEM/templates/Lecture Note.md",
-    "00 SYSTEM/templates/Course Page.md",
     "00 SYSTEM/templates/Textbook Note.md",
-    "TEXTBOOKS",
+    "SOURCE NOTES",
     "SEMESTERS",
     "COURSES",
     "Courses",
@@ -246,7 +250,6 @@
     "NOTES",
     "00 SYSTEM/attachments",
     "00 SYSTEM",
-    "00 SYSTEM/templates",
     "student-vault/README.md",
     "Welcome.md"
   ]

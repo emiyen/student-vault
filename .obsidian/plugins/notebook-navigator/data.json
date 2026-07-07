@@ -12,7 +12,16 @@
       "hiddenFileProperties": [],
       "navigationBanner": null,
       "periodicNotesFolder": "",
-      "shortcuts": [],
+      "shortcuts": [
+        {
+          "type": "note",
+          "path": "01 ATLAS/Home.md"
+        },
+        {
+          "type": "note",
+          "path": "README.md"
+        }
+      ],
       "navRainbow": {
         "mode": "none",
         "balanceHueLuminance": true,

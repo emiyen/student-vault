@@ -4,8 +4,9 @@
   "quickadd",
   "obsidian-git",
   "obsidian-outliner",
-  "dataview",
   "obsidian-style-settings",
   "editing-toolbar",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-latex-suite",
+  "homepage"
 ]

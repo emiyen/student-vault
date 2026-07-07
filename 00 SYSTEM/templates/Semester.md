@@ -7,13 +7,12 @@ tags:
 ---
 # [[<% tp.file.title %>]]
 ## Courses
-```dataview
-TABLE without ID
-	file.link AS "Course",
-	course-title AS "Course Title",
-	credits AS "Credits",
-	grade AS "Grade"
-FROM #course 
-WHERE semester = this.file.link
-SORT file.name ASC
+```base
+filters:
+  and:
+    - semester == link("<% tp.file.title %>")
+views:
+  - type: table
+    name: Table
+
 ```
