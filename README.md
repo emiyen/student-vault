@@ -26,6 +26,17 @@ A window will pop up prompting you to either enable the vault's plugins or brows
 
 <img src="https://github.com/emiyen/student-vault/blob/main/00%20SYSTEM/attachments/CleanShot%202026-07-07%20at%2016.23.19@2x_52ecbdd570666f8a79907d194c9b3c180753070253eb2e9d1e2ba44ad305e307.jpeg?raw=true">
 
-It's encouraged to first browse in Restricted Mode if you're wary. Take some time to navigate to the settings of Obsidian and check what community plugins come with this vault to gauge their safety yourself. You can also check what plugins are used by clicking [[#What plugins are used in this vault?|here]].
+It's encouraged to first browse in Restricted Mode if you're wary. Take some time to navigate to the settings of Obsidian and check what community plugins come with this vault to gauge their safety yourself. You can also check what plugins are used by clicking [here](https://github.com/emiyen/student-vault#what-plugins-are-used-in-this-vault).
 
 ## What plugins are used in this vault?
+
+- Dataview
+- Editing Toolbar
+- Excalidraw
+- Git
+	- You can remove this one if you don't plan on backing up your vault to GitHub.
+- Notebook Navigator
+- Outliner
+- QuickAdd
+- Style Settings
+- Templater
