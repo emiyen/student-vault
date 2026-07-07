@@ -192,12 +192,14 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "notebook-navigator:Notebook Navigator": false
+      "notebook-navigator:Notebook Navigator": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "97f21c36836aed84",
   "lastOpenFiles": [
-    "Untitled.md",
+    "student-vault/README.md",
+    "README.md",
     "README.md",
     "student-vault",
     "Welcome.md"

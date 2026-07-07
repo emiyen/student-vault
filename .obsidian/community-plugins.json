@@ -1,4 +1,6 @@
 [
   "notebook-navigator",
+  "templater-obsidian",
+  "quickadd",
   "obsidian-git"
 ]
