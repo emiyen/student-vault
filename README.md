@@ -48,11 +48,34 @@ When you first enter the vault, you'll be sent to **/01 ATLAS/Home**. This is yo
 
 This Student Vault is designed to be as simple as possible, with little folder structure and relying heavily on Obsidian's linking, bases, and search functions. You can add more folders and structure if needed as you use this vault to reduce visual clutter in the file navigator, but using links and bases with properties will handle most of the organization for you.
 
-## Adding courses, semesters, lecture notes, and source notes
+## Adding notes
 
 Access the QuickAdd menu by pressing `Command + N` at the same time. 
 
+<img src="https://github.com/emiyen/student-vault/blob/main/00%20SYSTEM/attachments/CleanShot%202026-07-07%20at%2017.40.34@2x_86a6263914a9d0a7fad5326688b9ae7bda5653c2e3345b6500c1f5f61eaf80a3.jpeg?raw=true">
+
+From here you can select whether you want to add:
+- A blank note
+- A course page
+- A lecture note
+- A semester page
+- A source note
+
+Blank notes will go into the root of your vault (it won't be in any subfolder on the left, but instead with the README and any other miscellaneous notes). 
+
+Try adding a course now! It'll automatically go into the COURSES folder.
+
+At the top of the course page, you'll see something called properties.
+
 <img src="">
+
+## What are properties?
+
+Properties can be assigned to notes so that they can be organized and listed out by bases. An example of a base can be found [[Templates.base|here]]. This base automatically lists all notes within the **templates** folder. 
+
+There are also examples of bases on the [[Home]] page. These are bases that filter through all of your notes based on properties called **tags**. For example, everything tagged with *course* will show up in the Courses base. Everything tagged with *semester* will show up in the Semesters base. 
+
+For the immediate use of this vault, knowledge about bases is not required, but if you want to customize and add more, there are videos on YouTube that cover the details extensively.
 
 ## What plugins are used in this vault?
 

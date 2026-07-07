@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.folder == "00 SYSTEM/templates"
+views:
+  - type: table
+    name: Table
