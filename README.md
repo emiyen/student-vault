@@ -22,4 +22,10 @@ Upon opening Obsidian for the first time, you'll see a window that looks like th
 
 Select **Open** next to the 'Open folder as vault' option. A file navigator will pop up. Navigate to the **student-vault-main** that you took out of the duplicate folder and select it.
 
-<img src="">
+A window will pop up prompting you to either enable the vault's plugins or browse the vault in Restricted Mode.
+
+<img src="https://github.com/emiyen/student-vault/blob/main/00%20SYSTEM/attachments/CleanShot%202026-07-07%20at%2016.23.19@2x_52ecbdd570666f8a79907d194c9b3c180753070253eb2e9d1e2ba44ad305e307.jpeg?raw=true">
+
+It's encouraged to first browse in Restricted Mode if you're wary. Take some time to navigate to the settings of Obsidian and check what community plugins come with this vault to gauge their safety yourself. You can also check what plugins are used by clicking [[#What plugins are used in this vault?|here]].
+
+## What plugins are used in this vault?
