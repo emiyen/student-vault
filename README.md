@@ -82,7 +82,7 @@ For the immediate use of this vault, knowledge about bases is not required, but 
 
 You can put all kinds of things within properties, including links. You'll want to make a semester page for the current semester and then insert a link to it in the **semester** property. For example:
 
-<img src="">
+<img src="https://github.com/emiyen/student-vault/blob/main/00%20SYSTEM/attachments/CleanShot%202026-07-07%20at%2018.04.52@2x_01e37d8dd59ffdd554f44e3c5faa076f007dc2d8f82c2b174ebe7375235b0e05.jpeg?raw=true">
 
 ## What plugins are used in this vault?
 
