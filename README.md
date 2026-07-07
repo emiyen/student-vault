@@ -12,6 +12,14 @@ To learn more about Markdown syntax, click [here](https://www.markdownguide.org/
 
 ## How do I get started?
 
-First, you'll want to [download Obsidian](https://obsidian.md/download) for your device.
+First, you'll want to [download Obsidian](https://obsidian.md/download) for your device as well as the [Student Vault](https://github.com/emiyen/student-vault/archive/refs/heads/main.zip) itself. 
+
+Unzip the Student Vault **.zip** file. Navigate into the **student-vault-main** folder and you should see a duplicate of it inside. Take that one out and place it on your computer somewhere accessible, such as your Documents folder.
+
+Upon opening Obsidian for the first time, you'll see a window that looks like this:
+
+<img src="https://github.com/emiyen/student-vault/blob/main/00%20SYSTEM/attachments/CleanShot%202026-07-07%20at%2016.14.47@2x_6558ac070973650e745c34399cb0b26bb6006ddeb18da01a37b692da49c1dc34.jpeg?raw=true">
+
+Select **Open** next to the 'Open folder as vault' option. A file navigator will pop up. Navigate to the **student-vault-main** that you took out of the duplicate folder and select it.
 
 <img src="">
